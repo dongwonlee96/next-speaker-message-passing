@@ -1,0 +1,11 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+49,50,P1,23,Glance
+58,59,P1,23,Glance
+67,68,P1,22,Look Away
+68,69,P1,23,Glance
+42,48,P2,23,Glance
+48,49,P2,11,Shrug
+51,52,P2,14,Shake Head
+52,58,P2,22,Look Away
+66,68,P2,22,Look Away
+48,50,P3,23,Glance
